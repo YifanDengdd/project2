@@ -56,7 +56,7 @@ ul{
   background-color:tan;
   border: .5px solid tan;
   border-color:silver;
-  border: width 0.5em;
+  border-width: 2px;
 }
 
 #navigation ul li a:hover{
