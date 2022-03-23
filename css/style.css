@@ -55,13 +55,13 @@ ul{
   display: block;
   background-color:tan;
   border: .5px solid tan;
-  border-color:tan;
+  border-color:silver;
   border: width 0.5em;
 }
 
 #navigation ul li a:hover{
     background-color: olive;
-    border: 1px solid olive;
+    border: 1px solid silver;
     color: tan;
 }
 
